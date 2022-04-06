@@ -20,11 +20,13 @@ IDeveloper developer = new Developer();
 Tester tester = new Tester();
 
 developer.Code();
-tester.Code();
 tester.TestCode();
 
+IQAEng qAEng = new QAEng();
 
 
+qAEng.TestCode();
+qAEng = new QAEng();
 
 
 

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.CSharpAdvanced.Interfaces", "SEDC.Oop.CSharpAdvanced.Interfaces\SEDC.Oop.CSharpAdvanced.Interfaces.csproj", "{788DD927-6578-4A3B-992C-BAE3D69ADECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.CSharpAdvanced.Exc1", "SEDC.Oop.CSharpAdvanced.Exc1\SEDC.Oop.CSharpAdvanced.Exc1.csproj", "{B9517DA5-DDA8-4651-99A7-7EBAB90019F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{788DD927-6578-4A3B-992C-BAE3D69ADECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788DD927-6578-4A3B-992C-BAE3D69ADECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788DD927-6578-4A3B-992C-BAE3D69ADECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9517DA5-DDA8-4651-99A7-7EBAB90019F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9517DA5-DDA8-4651-99A7-7EBAB90019F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9517DA5-DDA8-4651-99A7-7EBAB90019F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9517DA5-DDA8-4651-99A7-7EBAB90019F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

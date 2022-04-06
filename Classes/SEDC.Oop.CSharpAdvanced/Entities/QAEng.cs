@@ -7,13 +7,16 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
-    public class Tester : ITester
+    public class QAEng : IQAEng
     {
-       
+        public void Code()
+        {
+            Console.WriteLine("Writing automated test");      
+        }
 
         public void TestCode()
         {
-            Console.WriteLine("Testing the code");
+            Console.WriteLine("Testing application manualy");
         }
     }
 }
