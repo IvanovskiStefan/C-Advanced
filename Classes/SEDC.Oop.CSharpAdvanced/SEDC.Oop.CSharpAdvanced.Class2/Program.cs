@@ -16,4 +16,4 @@ Figura krug = new Krug(5);
 Figura kvadrat = new Kvadrat(10);
 
 Console.WriteLine(krug.PresmetajPlostina());
-Console.WriteLine(kvadrat.PresmetajPlostina());]
+Console.WriteLine(kvadrat.PresmetajPlostina());
