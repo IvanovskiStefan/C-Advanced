@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\bin\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\bin\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\bin\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\bin\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\bin\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\refint\SEDC.Oop.Class3.Polymorhism.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\SEDC.Oop.Class3.Polymorhism.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.Polymorhism\obj\Debug\net6.0\ref\SEDC.Oop.Class3.Polymorhism.dll

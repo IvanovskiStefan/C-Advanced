@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\bin\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\bin\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\bin\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\bin\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\bin\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\refint\SEDC.Oop.Class3.StaticClasses.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\SEDC.Oop.Class3.StaticClasses.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class3\SEDC.Oop.Class3.StaticClasses\obj\Debug\net6.0\ref\SEDC.Oop.Class3.StaticClasses.dll
