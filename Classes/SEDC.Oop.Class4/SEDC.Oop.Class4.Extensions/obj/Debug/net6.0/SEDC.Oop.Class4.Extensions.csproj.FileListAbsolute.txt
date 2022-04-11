@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\bin\Debug\net6.0\SEDC.Oop.Class4.Extensions.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\bin\Debug\net6.0\SEDC.Oop.Class4.Extensions.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\bin\Debug\net6.0\SEDC.Oop.Class4.Extensions.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\bin\Debug\net6.0\SEDC.Oop.Class4.Extensions.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\bin\Debug\net6.0\SEDC.Oop.Class4.Extensions.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\refint\SEDC.Oop.Class4.Extensions.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\SEDC.Oop.Class4.Extensions.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class4\SEDC.Oop.Class4.Extensions\obj\Debug\net6.0\ref\SEDC.Oop.Class4.Extensions.dll

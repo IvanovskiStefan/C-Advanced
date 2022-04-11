@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class4.Generics", "SEDC.Oop.Class4.Generics\SEDC.Oop.Class4.Generics.csproj", "{9D1F3D3E-5768-46B8-8F43-56DA03376D3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class4.Extensions", "SEDC.Oop.Class4.Extensions\SEDC.Oop.Class4.Extensions.csproj", "{5A9D9EA4-8A2D-4425-8326-00A94A9E0BF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D1F3D3E-5768-46B8-8F43-56DA03376D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D1F3D3E-5768-46B8-8F43-56DA03376D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D1F3D3E-5768-46B8-8F43-56DA03376D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9D9EA4-8A2D-4425-8326-00A94A9E0BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9D9EA4-8A2D-4425-8326-00A94A9E0BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9D9EA4-8A2D-4425-8326-00A94A9E0BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9D9EA4-8A2D-4425-8326-00A94A9E0BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
