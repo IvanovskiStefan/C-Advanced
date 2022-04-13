@@ -28,6 +28,10 @@
       "TaxiManager9000.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaxiManager9000.Data": "1.0.0",
+          "TaxiManager9000.Models": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TaxiManager9000.Services.dll": {}
         },

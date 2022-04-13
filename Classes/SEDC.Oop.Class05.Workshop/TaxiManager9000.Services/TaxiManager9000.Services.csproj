@@ -10,4 +10,9 @@
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TaxiManager9000.Data\TaxiManager9000.Data.csproj" />
+    <ProjectReference Include="..\TaxiManager9000.Models\TaxiManager9000.Models.csproj" />
+  </ItemGroup>
+
 </Project>

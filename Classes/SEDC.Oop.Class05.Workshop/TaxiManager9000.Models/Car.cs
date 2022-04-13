@@ -22,6 +22,7 @@ namespace TaxiManager9000.Models
             Model=model;
             LicensePlate=licensePlate;
            LicensePlateExpieryDate=licensePlateExpieryDate;
+            AssignedDrivers = new List<Driver>();
                   
         }
     }

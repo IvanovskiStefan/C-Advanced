@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\bin\Debug\net6.0\TaxiManager9000.Data.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\bin\Debug\net6.0\TaxiManager9000.Data.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\bin\Debug\net6.0\TaxiManager9000.Data.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\bin\Debug\net6.0\TaxiManager9000.Models.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\bin\Debug\net6.0\TaxiManager9000.Models.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.csproj.CopyComplete
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\refint\TaxiManager9000.Data.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\TaxiManager9000.Data.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.Class05.Workshop\TaxiManager9000.Data\obj\Debug\net6.0\ref\TaxiManager9000.Data.dll

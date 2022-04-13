@@ -203,7 +203,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Data\\TaxiManager9000.Data.csproj": {
+                "projectPath": "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Data\\TaxiManager9000.Data.csproj"
+              },
+              "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Models\\TaxiManager9000.Models.csproj": {
+                "projectPath": "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Models\\TaxiManager9000.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

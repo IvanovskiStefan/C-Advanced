@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TaxiManager9000.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaxiManager9000.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaxiManager9000.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager9000.Data.dll": {}
+        }
+      },
+      "TaxiManager9000.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaxiManager9000.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager9000.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TaxiManager9000.Data/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager9000.Data/TaxiManager9000.Data.csproj",
+      "msbuildProject": "../TaxiManager9000.Data/TaxiManager9000.Data.csproj"
+    },
+    "TaxiManager9000.Models/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager9000.Models/TaxiManager9000.Models.csproj",
+      "msbuildProject": "../TaxiManager9000.Models/TaxiManager9000.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TaxiManager9000.Data >= 1.0.0",
+      "TaxiManager9000.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Data\\TaxiManager9000.Data.csproj": {
+              "projectPath": "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Data\\TaxiManager9000.Data.csproj"
+            },
+            "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Models\\TaxiManager9000.Models.csproj": {
+              "projectPath": "C:\\C#Adv\\C-Advanced\\Classes\\SEDC.Oop.Class05.Workshop\\TaxiManager9000.Models\\TaxiManager9000.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
