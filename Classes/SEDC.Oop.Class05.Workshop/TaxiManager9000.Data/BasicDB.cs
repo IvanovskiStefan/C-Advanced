@@ -71,6 +71,39 @@ namespace TaxiManager9000.Data
             Users.Add(user2);   
             Users.Add(user3);   
 
+
+             static void AddUser(User user)
+            {
+                Users.Add(user);
+            }
+
+            static void AddDriver(Driver driver)
+            {
+                Drivers.Add(driver);
+            }
+
+            static void AddCar(Car car)
+            {
+                Cars.Add(car);
+            }
+
+
+            static void RemoveUser(User user)
+            {
+                Users.Remove(user);
+            }
+
+            static void RemoveCar(Car car)
+            {
+                Cars.Remove(car);
+            }
+
+            static void RemoveDriver(Driver driver)
+            {
+                Drivers.Remove(driver); 
+            }
+
+
         }
     }
 }
