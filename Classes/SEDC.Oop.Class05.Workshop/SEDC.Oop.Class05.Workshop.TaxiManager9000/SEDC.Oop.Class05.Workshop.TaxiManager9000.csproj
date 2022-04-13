@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaxiManager9000.Data\TaxiManager9000.Data.csproj" />
+    <ProjectReference Include="..\TaxiManager9000.Models\TaxiManager9000.Models.csproj" />
+    <ProjectReference Include="..\TaxiManager9000.Services\TaxiManager9000.Services.csproj" />
+  </ItemGroup>
+
+</Project>
