@@ -38,6 +38,52 @@ List<Order> realCopyList = orderList.Select(x => new Order
     Name = x.Name,  
 }).ToList();
 
+
+int sumOfAllQuanties = orderList.Sum(order => order.Quantity);
+Console.WriteLine($"The sum of all quuantities is : {sumOfAllQuanties}");
+
+
+int max = orderList.Max(x => x.Quantity);
+Console.WriteLine($"The maximum quiantity is {max}");
+
+
+var maxOrder = orderList.FirstOrDefault(x => x.Quantity == max );
+
+Console.WriteLine(maxOrder);
+
+
+double averageQuiantity = orderList.Average(x => x.Quantity);
+Console.WriteLine($"The average quantity is : {averageQuiantity}");
+List<Order> aboveAverage = orderList.Where(x=> x.Quantity > averageQuiantity).ToList();
+aboveAverage.ForEach(x => Console.WriteLine(x));
+
+//ascending
+var orderedOrderList = orderList.OrderBy(x => x.Id).ToList();
+orderedOrderList.ForEach(x => Console.WriteLine(x));
+//descending
+var descOrderedOrderList = orderList.OrderByDescending(x => x.Id).ToList();
+descOrderedOrderList.ForEach(x => Console.WriteLine(x));
+
+
+Console.WriteLine("ORDER BY STRING:");
+
+var orderByString = orderList.OrderBy(x => x.Name).ToList();
+orderByString.ForEach(x => Console.WriteLine(x));
+
+Console.WriteLine("Grouped by status ");
+var groupedOrders = orderList.GroupBy(x=>x.OrderStatus);
+foreach(var orderGrouping in groupedOrders)
+{
+    Console.WriteLine(orderGrouping.Key);
+    foreach(var order in orderGrouping)
+    {
+        Console.WriteLine(order);
+    }
+}
+
+
+
+
 public class Order
 {
     public int Id { get; set; } 
