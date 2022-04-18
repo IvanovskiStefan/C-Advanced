@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\refint\SEDC.Oop.C-Advanced.Class07.Anon.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Anon.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Anon\obj\Debug\net6.0\ref\SEDC.Oop.C-Advanced.Class07.Anon.dll

@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\refint\SEDC.Oop.C-Advanced.Class07.Linq-Adv.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class07.Linq-Adv.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class07\SEDC.Oop.C-Advanced.Class07.Linq-Adv\obj\Debug\net6.0\ref\SEDC.Oop.C-Advanced.Class07.Linq-Adv.dll
