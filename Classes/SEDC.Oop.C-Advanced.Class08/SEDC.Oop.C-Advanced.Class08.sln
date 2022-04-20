@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.C-Advanced.Class08.Delegates", "SEDC.Oop.C-Advanced.Class08.Delegates\SEDC.Oop.C-Advanced.Class08.Delegates.csproj", "{CA237AD1-6604-4389-96F1-6632440EB284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.C-Advanced.Class08.Events", "SEDC.Oop.C-Advanced.Class08.Events\SEDC.Oop.C-Advanced.Class08.Events.csproj", "{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA237AD1-6604-4389-96F1-6632440EB284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA237AD1-6604-4389-96F1-6632440EB284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA237AD1-6604-4389-96F1-6632440EB284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

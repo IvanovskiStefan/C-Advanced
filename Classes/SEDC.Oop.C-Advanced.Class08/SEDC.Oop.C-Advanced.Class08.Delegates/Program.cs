@@ -55,3 +55,5 @@ static void PerformCalculations(CalculateDelegate addNumbers, CalculateDelegate 
 delegate int CalculateDelegate(int firstNum, int secondNum);
 
 delegate void SayDelegate(string text);
+
+

@@ -1,0 +1,15 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\bin\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\refint\SEDC.Oop.C-Advanced.Class08.Events.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\SEDC.Oop.C-Advanced.Class08.Events.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.Events\obj\Debug\net6.0\ref\SEDC.Oop.C-Advanced.Class08.Events.dll

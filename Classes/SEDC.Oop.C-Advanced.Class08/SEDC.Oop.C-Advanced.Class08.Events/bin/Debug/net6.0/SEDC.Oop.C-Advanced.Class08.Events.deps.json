@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.Oop.C-Advanced.Class08.Events/1.0.0": {
+        "runtime": {
+          "SEDC.Oop.C-Advanced.Class08.Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Oop.C-Advanced.Class08.Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
