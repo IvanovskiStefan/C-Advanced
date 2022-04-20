@@ -30,13 +30,25 @@ User aleksandar = new User("aleksandar", "zivkovic", 35, "zivkovic@zivkovic.com"
 User ivan = new User("ivan", "dzikovski", 31, "ivan@ivan.com");
 
 tineks.SubscribeToPromotion(ivan.ReadPromotion, ivan.Email);
+tineks.SubscribeToPromotion(stefan.ReadPromotion, stefan.Email);
+tineks.SubscribeToPromotion(aneta.ReadPromotion, aneta.Email);
+
+
+
 tineks.Send();
-reptil.SubscribeToPromotion(stefan.ReadPromotion,stefan.Email);
+tineks.Unsubscribe(aneta.ReadPromotion, aneta.Email);
+
+tineks.Send();
+
 reptil.Send();
-neptun.SubscribeToPromotion(aneta.ReadPromotion,aneta.Email);
-neptun.Send();
 
 
+//reptil.SubscribeToPromotion(ReadPromotion, "Console writeline");
+
+// static void ReadPromotion(ProductType type, string marketName) 
+//{
+//    Console.WriteLine($"Subscription from main method : Promotion for{ type}, at {marketName}");
+//}
 
 
 

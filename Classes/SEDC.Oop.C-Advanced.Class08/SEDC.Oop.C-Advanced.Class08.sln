@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.C-Advanced.Class08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.C-Advanced.Class08.Events", "SEDC.Oop.C-Advanced.Class08.Events\SEDC.Oop.C-Advanced.Class08.Events.csproj", "{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.C-Advanced.Class08.App", "SEDC.Oop.C-Advanced.Class08.App\SEDC.Oop.C-Advanced.Class08.App.csproj", "{AADEFDBF-F47E-45B7-85EF-12644D080DB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661ED184-BFF1-45DB-9AC6-AB4BE6EE17CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADEFDBF-F47E-45B7-85EF-12644D080DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADEFDBF-F47E-45B7-85EF-12644D080DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADEFDBF-F47E-45B7-85EF-12644D080DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADEFDBF-F47E-45B7-85EF-12644D080DB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

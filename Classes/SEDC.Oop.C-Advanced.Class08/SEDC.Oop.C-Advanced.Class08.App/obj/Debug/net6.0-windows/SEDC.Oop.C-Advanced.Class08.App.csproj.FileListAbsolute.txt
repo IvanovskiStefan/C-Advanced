@@ -1,0 +1,17 @@
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\bin\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.exe
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\bin\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.deps.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\bin\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.runtimeconfig.json
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\bin\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\bin\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.csproj.AssemblyReference.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C_Advanced.Class08.App.Form1.resources
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.csproj.GenerateResource.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.AssemblyInfoInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.AssemblyInfo.cs
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.csproj.CoreCompileInputs.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\refint\SEDC.Oop.C-Advanced.Class08.App.dll
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.pdb
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\SEDC.Oop.C-Advanced.Class08.App.genruntimeconfig.cache
+C:\C#Adv\C-Advanced\Classes\SEDC.Oop.C-Advanced.Class08\SEDC.Oop.C-Advanced.Class08.App\obj\Debug\net6.0-windows\ref\SEDC.Oop.C-Advanced.Class08.App.dll
