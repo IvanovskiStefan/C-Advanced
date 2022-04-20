@@ -35,7 +35,7 @@ reptil.SubscribeToPromotion(stefan.ReadPromotion,stefan.Email);
 reptil.Send();
 neptun.SubscribeToPromotion(aneta.ReadPromotion,aneta.Email);
 neptun.Send();
-l
+
 
 
 
